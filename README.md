@@ -12,16 +12,16 @@
 2. Linked Lists
 3. Stacks
 4. Queues
-5. Maps/Dictionaries
-6. Heaps
+5. Hash Tables (Maps/Dictionaries)
+6. Trees
 7. Graphs
 
 ## Algorithms
 1. Dynamic Programming
-2. Searching
-3. Sorting
-4. Bit Manipulation
-5. Recursion
+2. Sorting
+3. Bit Manipulation
+4. Recursion
+5. Traversals
 
 ## Runtime Analysis
 1. Big-O Notation
