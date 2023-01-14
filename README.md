@@ -1,6 +1,11 @@
 # Data Structures & Algorithms Using Python
 
 ## Data Types
+1. Numeric
+2. Sequence Type
+3. Boolean
+4. Set
+5. Dictionary
 
 ## Data Structures
 1. Arrays
