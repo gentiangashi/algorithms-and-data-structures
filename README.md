@@ -1,4 +1,4 @@
-# Data Structures & Algorithms Using Python
+# Data Structures & Algorithms
 
 ## Getting Started
 
