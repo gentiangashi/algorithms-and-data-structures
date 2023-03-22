@@ -49,7 +49,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Feel free to contact me to discuss any issues, questions, or comments.
 
-* Email: [genti_gashi8@hotmail.com](mailto:genti_gashi8@hotmail.com)
+* Email: [gentiang@proton.me](mailto:gentiang@proton.me)
 * Twitter: [@gentiangashi_](https://twitter.com/gentiangashi_)
 * GitHub: [gentiangashi](https://github.com/gentiangashi)
 
